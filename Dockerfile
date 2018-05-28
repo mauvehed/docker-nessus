@@ -1,7 +1,7 @@
 FROM centos:7
 MAINTAINER Mike Nowak
 
-ENV NESSUS_VERSION="7.0.3"
+ENV NESSUS_VERSION=7.1.0
 
 VOLUME ["/opt/nessus"]
 
